@@ -67,9 +67,11 @@ Choose one of the available configurations from this repository:
 * VMess
 * Trojan
 * Reality
-* Subscription URL (if available)
+* Subscription Url
 
 Copy the desired configuration link.
+
+https://raw.githubusercontent.com/icreaterandomapps/v2ray-cot/refs/heads/main/Main.txt
 
 ---
 
@@ -142,6 +144,9 @@ To receive the latest servers and improvements:
 * Subscription Link
 
 ---
+
+
+https://raw.githubusercontent.com/icreaterandomapps/v2ray-cot/refs/heads/main/Main.txt
 
 ### 3️⃣ وارد کردن کانفیگ
 
