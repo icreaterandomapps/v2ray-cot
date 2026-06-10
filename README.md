@@ -36,93 +36,157 @@ Whether you're looking for reliable daily use, testing different protocols, or e
 
 ---
 
-### 📖 Tutorial | آموزش استفاده
-🇬🇧 English
-Getting Started
+## 📖 Tutorial | آموزش استفاده
 
-Follow these steps to use the configurations provided in this repository.
 
-1. Download a Client
+# 🇬🇧 English
 
-Install a compatible V2Ray/Xray client for your platform:
+## Getting Started
 
-Windows: v2rayN
-Android: v2rayNG
-iOS: Shadowrocket / Streisand / FoXray
-macOS: V2Box / FoXray
-Linux: Xray-core compatible clients
-2. Copy a Configuration
+Follow the steps below to import and use the configurations available in this repository.
 
-Choose a configuration from this repository and copy:
+### 1️⃣ Install a Client
 
-VMess link
-VLESS link
-Trojan link
-Subscription URL (if available)
-3. Import the Configuration
-Method A: Import Link
-Open your client.
-Select Import from Clipboard or Import URL.
-Paste the configuration link.
-Save the profile.
-Method B: Import Subscription
-Open your client.
-Navigate to Subscriptions.
-Add the subscription URL.
-Update the subscription list.
-4. Connect
-Select your preferred server.
-Enable the VPN/Proxy connection.
-Verify that the connection is active.
-5. Keep Configurations Updated
+Download and install a compatible V2Ray/Xray client for your device:
 
-This repository is updated regularly. Pull the latest changes or refresh your subscription to receive new configurations and improvements.
+| Platform | Recommended Client              |
+| -------- | ------------------------------- |
+| Windows  | v2rayN                          |
+| Android  | v2rayNG                         |
+| iOS      | Shadowrocket, Streisand, FoXray |
+| macOS    | V2Box, FoXray                   |
+| Linux    | Xray-core Compatible Clients    |
 
-### 🇮🇷 فارسی
-شروع کار
+---
 
-برای استفاده از کانفیگ‌های موجود در این مخزن، مراحل زیر را دنبال کنید.
+### 2️⃣ Copy a Configuration
 
-1. نصب کلاینت
+Choose one of the available configurations from this repository:
 
-یک کلاینت سازگار با V2Ray/Xray نصب کنید:
+* VLESS
+* VMess
+* Trojan
+* Reality
+* Subscription URL (if available)
 
-ویندوز: v2rayN
-اندروید: v2rayNG
-iOS: Shadowrocket / Streisand / FoXray
-macOS: V2Box / FoXray
-لینوکس: کلاینت‌های سازگار با Xray-core
-2. انتخاب کانفیگ
+Copy the desired configuration link.
 
-یکی از کانفیگ‌های موجود در مخزن را انتخاب کنید:
+---
 
-لینک VMess
-لینک VLESS
-لینک Trojan
-لینک Subscription (در صورت وجود)
-3. وارد کردن کانفیگ
-روش اول: وارد کردن لینک
-برنامه را باز کنید.
-گزینه Import from Clipboard یا Import URL را انتخاب کنید.
-لینک کانفیگ را وارد کنید.
-پروفایل را ذخیره کنید.
-روش دوم: وارد کردن اشتراک
-برنامه را باز کنید.
-وارد بخش Subscriptions شوید.
-لینک اشتراک را اضافه کنید.
-لیست را به‌روزرسانی کنید.
-4. اتصال
-سرور موردنظر را انتخاب کنید.
-اتصال VPN/Proxy را فعال کنید.
-از برقراری اتصال اطمینان حاصل کنید.
-5. دریافت به‌روزرسانی‌ها
+### 3️⃣ Import the Configuration
 
-کانفیگ‌های این مخزن به‌صورت منظم به‌روزرسانی می‌شوند. برای دریافت آخرین تغییرات، مخزن را به‌روزرسانی کرده یا اشتراک خود را Refresh کنید.
+#### Method A — Import via Link
 
-⭐ Support
+1. Open your client.
+2. Click **Import from Clipboard** or **Import URL**.
+3. Paste the configuration link.
+4. Save the profile.
 
-If this repository helps you, please consider giving it a Star ⭐ and sharing it with others. Contributions, suggestions, and improvements are always welcome.
+#### Method B — Import via Subscription
 
-⭐ حمایت
+1. Open your client.
+2. Navigate to **Subscriptions**.
+3. Add the subscription URL.
+4. Update or refresh the subscription list.
 
-اگر این مخزن برای شما مفید بود، با دادن Star ⭐ از پروژه حمایت کنید. همچنین پیشنهادها و مشارکت‌های شما برای بهبود پروژه همیشه استقبال می‌شود..
+---
+
+### 4️⃣ Connect
+
+1. Select a server.
+2. Enable the VPN/Proxy connection.
+3. Verify that the connection has been established successfully.
+
+---
+
+### 5️⃣ Stay Updated
+
+Configurations are updated regularly.
+
+To receive the latest servers and improvements:
+
+* Refresh your subscription.
+* Pull the latest repository changes.
+* Check the repository frequently for updates.
+
+---
+
+# 🇮🇷 فارسی
+
+## شروع کار
+
+برای استفاده از کانفیگ‌های موجود در این مخزن مراحل زیر را دنبال کنید.
+
+### 1️⃣ نصب کلاینت
+
+یک کلاینت سازگار با V2Ray/Xray برای دستگاه خود نصب کنید:
+
+| پلتفرم  | کلاینت پیشنهادی                 |
+| ------- | ------------------------------- |
+| ویندوز  | v2rayN                          |
+| اندروید | v2rayNG                         |
+| iOS     | Shadowrocket، Streisand، FoXray |
+| macOS   | V2Box، FoXray                   |
+| لینوکس  | کلاینت‌های سازگار با Xray-core  |
+
+---
+
+### 2️⃣ انتخاب کانفیگ
+
+یکی از کانفیگ‌های موجود را انتخاب و کپی کنید:
+
+* VLESS
+* VMess
+* Trojan
+* Reality
+* Subscription Link
+
+---
+
+### 3️⃣ وارد کردن کانفیگ
+
+#### روش اول — وارد کردن لینک
+
+1. برنامه را باز کنید.
+2. گزینه **Import from Clipboard** یا **Import URL** را انتخاب کنید.
+3. لینک کانفیگ را وارد کنید.
+4. پروفایل را ذخیره کنید.
+
+#### روش دوم — وارد کردن اشتراک
+
+1. برنامه را باز کنید.
+2. وارد بخش **Subscriptions** شوید.
+3. لینک اشتراک را اضافه کنید.
+4. لیست سرورها را به‌روزرسانی کنید.
+
+---
+
+### 4️⃣ اتصال
+
+1. یک سرور را انتخاب کنید.
+2. اتصال VPN/Proxy را فعال کنید.
+3. از برقراری موفق اتصال اطمینان حاصل کنید.
+
+---
+
+### 5️⃣ دریافت به‌روزرسانی‌ها
+
+کانفیگ‌ها به صورت منظم به‌روزرسانی می‌شوند.
+
+برای دریافت آخرین تغییرات:
+
+* اشتراک خود را Refresh کنید.
+* آخرین تغییرات مخزن را دریافت کنید.
+* به صورت دوره‌ای مخزن را بررسی کنید.
+
+---
+
+## ⭐ Support | حمایت
+
+If this repository helps you, please consider giving it a **Star ⭐** and sharing it with others.
+
+اگر این مخزن برای شما مفید بود، با دادن **Star ⭐** و اشتراک‌گذاری آن از پروژه حمایت کنید.
+
+Contributions, suggestions, and improvements are always welcome.
+
+از پیشنهادها، گزارش مشکلات و مشارکت‌های شما استقبال می‌شود.
