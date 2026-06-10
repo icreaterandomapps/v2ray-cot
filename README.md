@@ -33,6 +33,8 @@ Whether you're looking for reliable daily use, testing different protocols, or e
 * امکان مشارکت و بهبود توسط جامعه کاربران
 
 این مخزن با هدف فراهم کردن مجموعه‌ای منظم، کاربردی و همیشه به‌روز از کانفیگ‌های V2Ray/Xrayایجاد شده است تا کاربران بتوانند به‌راحتی از جدیدترین و بهترین تنظیمات موجود بهره‌مند شوند
+
+
 📖 Tutorial | آموزش استفاده
 🇬🇧 English
 Getting Started
