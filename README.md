@@ -34,8 +34,9 @@ Whether you're looking for reliable daily use, testing different protocols, or e
 
 این مخزن با هدف فراهم کردن مجموعه‌ای منظم، کاربردی و همیشه به‌روز از کانفیگ‌های V2Ray/Xrayایجاد شده است تا کاربران بتوانند به‌راحتی از جدیدترین و بهترین تنظیمات موجود بهره‌مند شوند
 
+---
 
-📖 Tutorial | آموزش استفاده
+### 📖 Tutorial | آموزش استفاده
 🇬🇧 English
 Getting Started
 
@@ -77,7 +78,7 @@ Verify that the connection is active.
 
 This repository is updated regularly. Pull the latest changes or refresh your subscription to receive new configurations and improvements.
 
-🇮🇷 فارسی
+### 🇮🇷 فارسی
 شروع کار
 
 برای استفاده از کانفیگ‌های موجود در این مخزن، مراحل زیر را دنبال کنید.
